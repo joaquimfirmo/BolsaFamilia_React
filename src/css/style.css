@@ -1,0 +1,150 @@
+
+
+html{
+	background-color: yellow;
+}
+
+.art {
+
+	width: 110px;
+	margin-top: 10px;
+	margin-left: 52px;
+}
+
+li h5 a{
+
+	color: white;
+	
+}
+
+hr{
+	margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid white;
+}
+
+
+
+#formulario{
+   
+	display: inline-block;
+	height: 476px;
+	margin-top: 13px;
+	margin-left: 2.5em;
+	background-color: white;
+	border-radius: 12px;
+	
+
+}
+
+#formcpf{
+    position: relative;
+    margin-left: 34px;
+
+	width: 70%;
+}
+
+#formularioCidade{
+
+	position: relative;
+	height: 480px;
+	display: inline-block;
+	background-color: white;
+	border-radius: 12px;
+	margin-top: 10px;
+	margin-left: 1.8em;
+
+	
+	
+}
+
+#btncidade {
+
+  position:relative;
+  top:35%;
+  left:12%;
+  width: 50%;
+
+}
+
+#btncpf {
+
+  position:relative;
+  top:25px;
+  left:12%;
+  width: 50%;
+
+}
+
+#dados{
+
+	display:inline-block;
+	height: 480px;
+	background-color: white;
+	border-radius: 12px;
+	margin-top: 10px;
+	margin-right: 1.2em;
+	float: right;
+
+	
+	
+}
+
+#dados2{
+
+	display:inline-block;
+	height: 480px;	
+	background-color: white;
+	border-radius: 12px;
+	margin-top: 10px;
+	margin-left: 1.7em;
+	float: right;
+
+	
+	
+}
+
+#load {
+
+	display: none;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    margin-left: 300px;
+    color: blue;
+ }
+
+ #cpfMes{
+	display: inline-block;
+}
+
+#seleMescidade{
+	display: inline-block;
+	margin-top: 23px;
+}
+
+#selecidade{
+    margin-top: 23px;
+	display: inline-block;
+
+}
+
+#btnCidade{
+	margin-top: 23px;
+
+}
+
+#btnCpf{
+	margin-top: 29px;
+}
+
+#cpfcomponents{
+	display: none;
+}
+
+.CidadeComp{
+	display: inline-block;
+}
