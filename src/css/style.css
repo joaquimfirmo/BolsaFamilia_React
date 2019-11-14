@@ -41,7 +41,6 @@ hr{
 #formcpf{
     position: relative;
     margin-left: 34px;
-
 	width: 70%;
 }
 
@@ -53,7 +52,7 @@ hr{
 	background-color: white;
 	border-radius: 12px;
 	margin-top: 10px;
-	margin-left: 1.8em;
+	margin-left: 3.3em;
 
 	
 	
@@ -147,4 +146,9 @@ hr{
 
 .CidadeComp{
 	display: inline-block;
+}
+
+#rodape{
+	text-align: center;
+	margin-top: -20px;
 }
